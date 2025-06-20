@@ -60,4 +60,4 @@ This model leveraged a deep architecture with 4[256, 128, 64, 32]   layers and a
 The combination of the Nadam optimizer and early stopping allowed the model to learn more efficiently and avoid overtraining. Compared to traditional machine learning methods such as Logistic Regression, this neural network architecture was able to learn non-linear patterns in the data more effectively and make significantly more accurate predictions, thanks to the use of deep layers, dropout, and advanced optimization strategies.
 
 # Video Presentation
-
+https://youtu.be/Oegy_TxDLmQ
