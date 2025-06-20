@@ -36,7 +36,7 @@ Data can be found https://www.kaggle.com/datasets/jainilcoder/online-payment-fra
 | **Model** | **Optimizer** | **Regularization** | **Early Stopping** | **Dropout** | **Learning Rate** | **Layers** | **Precision** | **Recall** | **F1-Score** | **AUC**  |
 |-----------|---------------|--------------------|---------------------|-------------|-------------------|------------|---------------|------------|--------------|---------|
 | Model 1   | Adam          | L2 (0.01)          | Yes                 | 0.2         | 0.001             | 2          | 0.93          | 0.98       | 0.95         | 0.9919  |
-| Model 2   | RMSprop       | L1 (0.01)          | No                  | 0.2         | 0.001             | 2          | 0.94          | 0.94       | 0.94         | 0.9916  |
+| Model 2(Instace1)  | RMSprop       | L1 (0.01)          | No                  | 0.2         | 0.001             | 2          | 0.94          | 0.94       | 0.94         | 0.9916  |
 | Model 3   | SGD           | L1 (0.01)          | Yes                 | 0.3         | 0.001             | 3          | 0.86          | 0.86       | 0.86         | 0.9375  |
 | Model 4   | AdamW         | L2 (0.01)          | Yes                 | 0.3         | 0.001             | 3          | 0.93          | 0.92       | 0.92         | 0.9867  |
 | Model 5   | Nadam         | None               | Yes                 | 0.4         | 0.0005            | 4          | 0.96          | 0.96       | 0.96         | 0.9951  |
